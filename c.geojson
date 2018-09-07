@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "customer_name": "142 FIFTH AVE. OWNERS COR", "index_right": 3, "20_zones": 4.0 }, "geometry": { "type": "Point", "coordinates": [ -73.9918513, 40.7394932 ] } },
+{ "type": "Feature", "properties": { "customer_name": "A.B.S. - MONTHLY - 200 PAS", "index_right": 3, "20_zones": 4.0 }, "geometry": { "type": "Point", "coordinates": [ -73.9890175, 40.7369214 ] } },
+{ "type": "Feature", "properties": { "customer_name": "ROCKWELL GROUP", "index_right": 3, "20_zones": 4.0 }, "geometry": { "type": "Point", "coordinates": [ -73.9916942, 40.7356205 ] } },
+{ "type": "Feature", "properties": { "customer_name": "A.B.S. - MONTHLY - 162 5TH", "index_right": 3, "20_zones": 4.0 }, "geometry": { "type": "Point", "coordinates": [ -73.9907969, 40.7405838 ] } },
+{ "type": "Feature", "properties": { "customer_name": "GRUBB & ELLIS-475 RIVERSIDE DR", "index_right": 7, "20_zones": 8.0 }, "geometry": { "type": "Point", "coordinates": [ -73.963702, 40.8108111 ] } }
+]
+}
