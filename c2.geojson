@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "customer_name": "142 FIFTH AVE. OWNERS COR", "index_right": 3, "20_zones": 4.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9918513, 40.7394932 ] } },
+{ "type": "Feature", "properties": { "customer_name": "149 5TH AVE MASTER", "index_right": 3, "20_zones": 4.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9900005, 40.7402332 ] } },
+{ "type": "Feature", "properties": { "customer_name": "260-261 MADISON AVENUE LLC", "index_right": 4, "20_zones": 5.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9812669, 40.7507653 ] } },
+{ "type": "Feature", "properties": { "customer_name": "58-64 WEST 40TH ST. CORP. INC", "index_right": 4, "20_zones": 5.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9844244, 40.7530574 ] } },
+{ "type": "Feature", "properties": { "customer_name": "A.B.S. - MONTHLY - 162 5TH", "index_right": 3, "20_zones": 4.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9907969, 40.7405838 ] } },
+{ "type": "Feature", "properties": { "customer_name": "A.B.S. - MONTHLY - 200 PAS", "index_right": 3, "20_zones": 4.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9890175, 40.7369214 ] } },
+{ "type": "Feature", "properties": { "customer_name": "ADAMS & COMPANY REAL ESTATE", "index_right": 4, "20_zones": 5.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9827012, 40.7503591 ] } },
+{ "type": "Feature", "properties": { "customer_name": "BERNSTEIN & ANDRULLI", "index_right": 4, "20_zones": 5.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9844244, 40.7530574 ] } },
+{ "type": "Feature", "properties": { "customer_name": "ROCKERFELLER CENTER-2  ", "index_right": 4, "20_zones": 5.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9798152, 40.7600664 ] } },
+{ "type": "Feature", "properties": { "customer_name": "ROCKWELL GROUP", "index_right": 3, "20_zones": 4.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9916942, 40.7356205 ] } },
+{ "type": "Feature", "properties": { "customer_name": "TISHMAN SPEYER - 11 WEST ", "index_right": 4, "20_zones": 5.0, "ok": 1 }, "geometry": { "type": "Point", "coordinates": [ -73.9818586, 40.7541476 ] } }
+]
+}
